@@ -14,8 +14,8 @@ You lose the game if your total score goes above the random number. The value of
 
 ## Tech
 
-• HTML5
-• CSS3
-• Bootstrap
-• Javascript
-• jQuery
+* HTML5
+* CSS3
+* Bootstrap
+* Javascript
+* jQuery
